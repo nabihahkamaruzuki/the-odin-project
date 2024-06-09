@@ -1,13 +1,14 @@
 # the-odin-project
-My compilation task &amp; assignment for The Odin Project - a full stack web development course.
+My task &amp; assignment compilations for The Odin Project - a full stack web development course.
 
-###  Curriculum & Project List :
+###  :zap: Curriculum & Project List :
 
 The course is divided into 2 sections [Foundation] [Full Stack Javascript]
 
-###  Foundation :
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+###  :zap: Foundation :
+
+| Project             |  Topic(s)                                    | Repo | Demo |
+|:--------------------|:--------------------------------------------:|-----:|-----:|
+| Recipe Site         | Command Line Basics, Git Basics, Basic HTML  | WIP  | WIP  |
+| Landing Page        |  CSS Cascade, CSS Flexbox                    | WIP  | WIP  |
+| Rock Paper Scissors | JS Basics: Types, Functions and Conditionals | WIP  | WIP  |
